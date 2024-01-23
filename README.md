@@ -1,4 +1,4 @@
-#**Site Spotify**
+# **Site Spotify**
 
 O projeto está sendo feito durante a imersão de desenvolvimento FrontEnd da Alura.
 
