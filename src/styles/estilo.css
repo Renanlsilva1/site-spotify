@@ -1,6 +1,6 @@
 body {
     background-color: #000;
-    font-family: var(--font-dm-scans);
+    font-family: var(--font-dm-sans)
 }
 .sidebar{
     position: relative;
